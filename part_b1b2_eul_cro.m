@@ -1,5 +1,6 @@
 %% This is Euler Cromer algorithm. Molecular Dynamics 9(a) page 96
 %% Both variants are implemented, variant = 1 or 2 selects the desired variant.
+%% Added for github
 clear all;
 close all;
 format long
